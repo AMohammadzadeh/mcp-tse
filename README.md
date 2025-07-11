@@ -5,8 +5,9 @@ An MCP server to interact with Tehran Stock Exchange (TSE).
 ## Tools
 
 
-* 🔍 **Search Stock**: Query stock names or symbols and receive a list of matching results.
-* 📈 **Get Stock Info**: Retrieve the latest trading data (open, close, high, low, volume, etc.) for a specific stock.
+*  **Search Stock**: Query stock names or symbols and receive a list of matching results.
+*  **Get Stock Info**: Retrieve the latest trading data (open, close, high, low, volume, etc.) for a specific stock.
+*  **Get Stock History**: Retrieve the historical trading data (open, close, high, low, volume, etc.) for a specific stock.
 
 ## MCP Server Setup
 
